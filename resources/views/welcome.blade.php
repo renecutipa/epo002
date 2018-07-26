@@ -25,7 +25,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">ISEPA</a>
+          <a class="navbar-brand" href="#">IESTPA</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -45,7 +45,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>REPOSITORIO</h1>
-        <p>Bienvenidos al Repositorio Institucional del ISEPA, cuyo objetivo es facilitar y mejorar la visibilidad de la producción cientifica y académica, permitiendo el acceso abierto a sus contenidos y garantizando la preservación y conservación de dicha producción, además de aumentar el impacto del legado Institucional.</p>
+        <p>Bienvenidos al Repositorio Institucional del IESTPA, cuyo objetivo es facilitar y mejorar la visibilidad de la producción cientifica y académica, permitiendo el acceso abierto a sus contenidos y garantizando la preservación y conservación de dicha producción, además de aumentar el impacto del legado Institucional.</p>
       </div>
     </div>
 
